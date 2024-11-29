@@ -1,0 +1,2 @@
+# TextEncryption
+Text Encryption software. 
